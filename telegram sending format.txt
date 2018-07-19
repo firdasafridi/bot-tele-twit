@@ -1,0 +1,2 @@
+https://api.telegram.org/bot682620877:AAFbpRbWzbNPYQBUy6yzU6dTsPbst3L1hTc/sendMessage?text=omaoy2&chat_id=@tesgahol
+https://api.telegram.org/bot671532253:AAGuuTnf_vE7jIOp319jjRUwjceoq3WztYg/getUpdates
